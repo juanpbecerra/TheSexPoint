@@ -14,7 +14,6 @@ body {
 	background-image: -webkit-linear-gradient(270deg,rgba(241,9,9,1.00) 0%,rgba(173,17,215,1.00) 100%);
 	background-image: linear-gradient(180deg,rgba(241,9,9,1.00) 0%,rgba(173,17,215,1.00) 100%);
 	min-width: 1050px;
-	border: 1px solid #000000;
 }
 
 header {
